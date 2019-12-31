@@ -1,0 +1,6 @@
+C:\Users\taras\source\repos\Begin\Begin\bin\Debug\Begin.exe.config
+C:\Users\taras\source\repos\Begin\Begin\bin\Debug\Begin.exe
+C:\Users\taras\source\repos\Begin\Begin\bin\Debug\Begin.pdb
+C:\Users\taras\source\repos\Begin\Begin\obj\Debug\Begin.csprojAssemblyReference.cache
+C:\Users\taras\source\repos\Begin\Begin\obj\Debug\Begin.exe
+C:\Users\taras\source\repos\Begin\Begin\obj\Debug\Begin.pdb

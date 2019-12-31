@@ -1,0 +1,6 @@
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\obj\Debug\Midterm2.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\bin\Debug\Midterm2.exe.config
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\bin\Debug\Midterm2.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\bin\Debug\Midterm2.pdb
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\obj\Debug\Midterm2.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Midterm2\Midterm2\obj\Debug\Midterm2.pdb

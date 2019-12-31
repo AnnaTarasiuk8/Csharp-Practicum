@@ -1,0 +1,6 @@
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\bin\Debug\SelectionStatement.exe.config
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\bin\Debug\SelectionStatement.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\bin\Debug\SelectionStatement.pdb
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\obj\Debug\SelectionStatement.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\obj\Debug\SelectionStatement.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\SelectionStatement\SelectionStatement\obj\Debug\SelectionStatement.pdb

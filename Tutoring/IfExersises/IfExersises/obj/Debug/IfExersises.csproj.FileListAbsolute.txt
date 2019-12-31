@@ -1,0 +1,6 @@
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\bin\Debug\IfExersises.exe.config
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\bin\Debug\IfExersises.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\bin\Debug\IfExersises.pdb
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\obj\Debug\IfExersises.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\obj\Debug\IfExersises.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\IfExersises\IfExersises\obj\Debug\IfExersises.pdb

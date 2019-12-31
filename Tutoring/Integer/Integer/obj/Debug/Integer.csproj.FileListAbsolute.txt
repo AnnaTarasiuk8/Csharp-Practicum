@@ -1,0 +1,6 @@
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\bin\Debug\Integer.exe.config
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\bin\Debug\Integer.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\bin\Debug\Integer.pdb
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\obj\Debug\Integer.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\obj\Debug\Integer.exe
+C:\Users\taras\OneDrive\Documents\BCC\Prog 110\Tutoring\Integer\Integer\obj\Debug\Integer.pdb
